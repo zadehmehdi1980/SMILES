@@ -1,0 +1,31 @@
+name: myenvminiconda
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.6.8
+  - pip==19.3.1
+  - psutil==5.6.3
+  - rdkit
+  - Flask
+  - scikit-learn 
+  - pip:
+#    - scikit-learn
+    - scipy
+    - argparse==1.4.0
+    - mock
+    - setuptools==41.6.0
+    - tensorflow-cpu==2.3.0
+    - keras
+#    - intel-tensorflow==1.14.0
+#    - tensorflow-serving-api==1.14.0
+    - awscli
+    - requests==2.22.0
+    - boto3==1.10.23
+    - Flask==1.0.2
+    - gunicorn==19.4.5
+    - gunicorn[extra]
+    - flask-cors==3.0.2
+    - Werkzeug==0.14.1
+    - eventlet
+
