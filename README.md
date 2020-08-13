@@ -7,7 +7,7 @@ SMILES representation of compounds to recognize chemical motif With CNN and MLP 
 
 ## Objective
 
-The objective of this work is to understand the application of Convolutional Neural Network model for representation of compounds to detect chemical motif (also known as structural motif). This work examins CNN [1,2] and Multi layer perceptron with four hidden layers [3] to recognize motifs, fingerprint(s) in a given unstructured text into pre-defined binary categories such as 0, 1. 
+The objective of this work is to understand the application of simple Deep Learning model(s) for representation of compounds to detect chemical motif (also known as structural motif). This work examins CNN [1,2] and Multi layer perceptron with four hidden layers [3] to recognize motifs, fingerprint(s) in a given unstructured text into pre-defined binary categories such as 0, 1. 
 
 
     __status__          = "Dev"
