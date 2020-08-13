@@ -1,4 +1,4 @@
-SMILES representation of compounds to recognize chemical motif With CNN and MLP deep learning appoarches 
+SMILES representation of compounds to recognize chemical motif With CNN and MLP Deep Learning Appoarches 
 ------------
 
 ![Project screenshot](./AI_Flask_Rest.png)
