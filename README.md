@@ -12,13 +12,13 @@ The objective of this work is to understand the application of Convolutional Neu
 
     __status__          = "Dev"
     __version__         = "1.0"
-    __clientname__      =  "{...., Data Science Dept. }"
-    __copyright__       = "Copyright 2020, {.... Group}"
+    __clientname__      =  "{TBD, Data Science Dept. }"
+    __copyright__       = "Copyright 2020"
 
 Contributors
 --------------
-    __project_manager __   = "  "
-    __maintainer      __   = "Nimahm@gmail.com"
+    __project_manager __   = "TBD "
+    __maintainer      __   = "Mehdi Habibzadeh;  Nimahm@gmail.com"
 
       
 
@@ -261,7 +261,7 @@ Future work
 --------------
 
 * Autoscaling Modification and settings to reach optimum concurrent settings.
-* Multi-label classification should be considered  (Model 3).
+* Multi-label classification should be considered  (Model03 with trainingData/dataset-multi.csv).
 * A further study with more focus on deep learning and its variations is therefore suggested. 
 * Code modification to accept bach data .
  
@@ -286,4 +286,4 @@ References
  -------------------------
  
  
- (c) 2020, [..... Laboratories](https://www....../) License.
+ (c) 2020, [TBD Laboratories](https://TBD. /) License.
